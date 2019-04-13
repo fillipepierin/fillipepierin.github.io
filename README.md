@@ -1,109 +1,116 @@
-# Develop Personal Academic Website
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/blog-homepage.jpg)](https://mdbootstrap.com/freebies/jquery/blog/)
 
-[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
-[![image](https://img.shields.io/badge/lagrange-html%20%7C%20css-blue.svg)]()
-[![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
-[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+# Bootstrap 4 & Material Design - Blog Template 
 
-This is an **HTML-CSS** implementation of developing personal academic website with **GitHub.io**.
+Free, responsive Blog template containing many types of engaging posts, author pages, and category pages. Designed for storytellers. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
 
-The source template in ```SourceTemplate_privy/``` is forked from [TEMPLATED](http://templated.co).
+________
 
-## Description of Files/Folders
+# Live Previews: 
+## https://mdbootstrap.com/freebies/jquery/blog/
 
-- ```default.css``` - Define the structure, formats, and properties of website.
+# Most important features:
 
-- ```index.html``` - Source code of home page.
+1. Fully responsive
 
-- ```hz***.html``` - Source code of child web pages.
+2. Plenty of useful components
 
-- ```google***.html``` - Verification file of Google search engine.
+3. Easy installation
 
-- ```baidu***.html``` - Verification file of Baidu search engine.
+4. Easy to use and customize
 
-- ```images/``` - Pictures used in developing website.
+5. Active community
 
-## Configuration and Establishment
+6. Dedicated support forum
 
-The following procedures for establishing website are partly recapitulated from [GitHub Guide](https://pages.github.com/).
+7. Detailed documentation
 
-1. Configure GitHub client on local computer.
-```bash
-$ git config --global user.email "xxx@xxx.xxx"
-# xxx@xxx.xxx is your registered email on GitHub.
-$ git config --global user.name "aaa"
-# aaa is your user name on GitHub
-```
+# Demo:  
+**Main demo**: https://mdbootstrap.com/previews/free-templates/blog/home-page.html
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name！You can use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
+# MDB Quick Start (5 minutes):
+**Written Tutorial**: https://mdbootstrap.com/education/bootstrap/quick-start/
 
-3. Clone __aaa.github.io__ repository to local computer.
-```bash
-$ git clone https://github.com/aaa/aaa.github.io
-```
+**Video Tutorial**:https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s
 
-4. Add contents to the website (this will create the home page ```index.html```).
-```bash
-$ cd aaa.github.io
-~$ echo "Hello World" > index.html
-~$ git add --all
-~$ git commit -m "Initial commit"
-~$ git push -u origin master
-```
+**npm installation**
+You can install MDBootstrap using NPM:
+- `npm install mdbootstrap`
 
-5. After a few minutes, open __https://aaa.github.io/__ on browser and see "Hello World" on the website.
+# Additional tutorials:
 
-6. Develop website by editing templates (.css), ```index.html```, and other files (.html) on GitHub.io repository.
+**MDB - Bootstrap tutorial**: https://mdbootstrap.com/education/bootstrap/
 
-## Verification of Website
+**MDB - Wordpress tutorial**: https://mdbootstrap.com/education/wordpress/
 
-Verifying your website on different search engines allows it to be retrieved by users through the Internet.
+# Documentation:
 
-### Verify website on Google
+**Huge, detailed documentation avilable online on**: https://mdbootstrap.com/
 
-1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with Google account.
+# PRO version:
 
-2. Click top-left drop-down arrow and click "+ Add property".
+**MDB Blog Template Pro (jQuery version)**: https://mdbootstrap.com/products/jquery-blog/  
 
-3. Type __https://aaa.github.io__ in the input box of pop-up window and click "CONTINUE".
+# Highlights:  
+**Bootstrap 4**  
+Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.
 
-4. Download the file called ```google***.html``` and upload it to your GitHub.io repository.
+**Material Design for Bootstrap**  
+This template is built with MDBootstrap - powerful and free UI Kit, containing 400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files, templates, tutorials and many more.  
 
-5. Go back to the verification page. Wait a few minutes and click "VERIFY".
+**Free for personal and commercial use**  
+Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.   
 
-6. Complete verification on Google search engine!
+**10 fresh ready to use templates**  
+We are going further and giving to you ready to use templates! Use them as you like, as an inspiration, prototype or final product for your customers.  
 
-### Verify website on Baidu
+**Fully responsive**  
+It doesn't matter whether your project will be displayed on desktop, laptop, tablet or mobile phone. MDB looks great on each screen.
 
-1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and log in with Baidu account.
+**Technical support**  
+We really care about reliability. If you have any questions - do not hesitate to contact us.  
 
-2. Click "Add Website" and complete user information (if required).
+**Active community**  
+Our society grows day by day. Visit **our forum** and check how it is to be a part of our family.  
 
-3. Type __https://aaa.github.io__ in the input box and click "NEXT".
+**Flex box**  
+MDB fully suppports Flex Box. You can forget about alignment issues.  
 
-4. Select website attribute (e.g., Information Technology).
+**Latest jQuery**  
+MDB is integrated with newest jQuery, therefore you can use all the newest features which comes along with it.  
 
-5. Select verification method - document verification.
+**Detailed documentation:**  
+We give you detailed documentation at your disposal. It will help you to implement your ideas easily.  
 
-6. Download the file named as ```baidu_verify***.html``` and upload to your GitHub.io repository.
+A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you.  
 
-7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
+# Useful Links:  
 
-8. Complete verification on Baidu search engine!
+Getting started: https://mdbootstrap.com/docs/jquery/getting-started/download/  
 
-## Useful Links
+5 min quick start: https://mdbootstrap.com/education/bootstrap/quick-start/  
 
-* Online HTML and CSS editor - [CodePen](https://codepen.io/)
+Material Design + Bootstrap Tutorial: https://mdbootstrap.com/education/bootstrap/  
 
-* Online picture resizer - [Picresize](http://www.picresize.com/)
+Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress/  
 
-* Online picture format converter - [Online-Converter](https://www.online-convert.com/)
+Other Freebies: https://mdbootstrap.com/freebies/  
 
-<br>
+Premium Templates: https://mdbootstrap.com/templates/  
 
-<i>Please star this repository if you found its content useful. Thank you very much.</i>
 
-<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
+# Social Media:  
 
-<i>Last updated: 07/03/2019</i>
+Twitter: https://twitter.com/MDBootstrap  
 
+Facebook: https://www.facebook.com/mdbootstrap  
+
+Pinterest: https://pl.pinterest.com/mdbootstrap 
+
+Google+: https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts  
+
+Dribbble: https://dribbble.com/mdbootstrap
+
+LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
+
+# Visit our website: https://mdbootstrap.com/
